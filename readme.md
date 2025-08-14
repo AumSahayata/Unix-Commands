@@ -66,7 +66,7 @@ gotree -d -f -L 2 test
 grep -i -A 2 "error" logfile.txt
 
 # Search and save results to a file
-grep -o results.txt "TODO" source.go
+grep -o results.txt "TODO" test.txt
 ```
 ## Command Flags (wc)
 

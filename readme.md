@@ -46,8 +46,8 @@ go run main.go <arguments>
 
 ### Example
 ```bash
-# Print only directories with full paths, limited to 2 levels deep
-gotree -d -f -L 2
+# Print only directories with full paths, limited to 2 levels deep from test directory
+gotree -d -f -L 2 test
 ```
 ## Command Flags (grep)
 `grep` supports the following flags to customize its search behavior:

@@ -1,0 +1,5 @@
+testfiles/t1.txt:hii pizza hello
+testfiles/t2.txt:Velit dolor hello proident laborum deserunt consequat.
+testfiles/t2.txt:HELLO 
+testfiles/t3.txt:hii pizza hello
+testfiles/t3.txt:Velit dolor hello proident laborum deserunt consequat.
